@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item android:id="@+id/home"
+        android:icon="@drawable/nav_home"
+        android:title="@string/home"
+        android:iconTint="@color/black"/>
+
+        <item android:id="@+id/myorder"
+            android:icon="@drawable/order"
+            android:title="@string/my_order"
+            android:iconTint="@color/black"/>
+
+        <item android:id="@+id/wishlist"
+            android:icon="@drawable/wishlist"
+            android:title="@string/wish_list" />
+        <item android:id="@+id/cart"
+            android:icon="@drawable/cart"
+            android:title="Cart"/>
+
+    <item android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="@string/profile"
+        android:iconTint="@color/black"/>
+
+    <item android:id="@+id/aboutus"
+        android:icon="@drawable/aboutus"
+        android:title="@string/about_us"
+        android:iconTint="@color/black"/>
+
+    <item android:id="@+id/contactus"
+        android:icon="@drawable/contact"
+        android:title="@string/contact_us"
+        android:iconTint="@color/black"/>
+    <item android:id="@+id/feedback"
+        android:icon="@drawable/feedback"
+        android:title="@string/feedback"
+        android:iconTint="@color/black"/>
+    </group>
+
+    <item android:id="@+id/other"
+        android:title="@string/others"
+        android:iconTint="@color/black">
+        <menu>
+
+    <item android:id="@+id/chgpass"
+        android:icon="@drawable/password"
+        android:title="@string/change_password"
+        android:iconTint="@color/black"/>
+
+    <item android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="@string/logout"
+        android:iconTint="@color/black"/>
+        </menu>
+    </item>
+</menu>

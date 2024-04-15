@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    tools:context=".feedback"
+    tools:ignore="ExtraText">
+
+    <RatingBar
+        android:id="@+id/rbFeedback"
+        android:layout_width="240dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="78dp"
+        android:layout_marginBottom="17dp"
+        android:stepSize="0.5"
+        app:layout_constraintBottom_toTopOf="@+id/StarNo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtFeedback" />
+
+    <TextView
+        android:id="@+id/txtFeedback"
+        android:layout_width="173dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="122dp"
+        android:layout_marginTop="219dp"
+        android:layout_marginEnd="122dp"
+        android:layout_marginBottom="23dp"
+        android:text="@string/give_us_the_stars"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toTopOf="@+id/rbFeedback"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/StarNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:text="@string/stars"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/rbFeedback"
+        tools:ignore="MissingConstraints" />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        tools:ignore="MissingConstraints">
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+    <Button
+        android:id="@+id/btnFeedback"
+        android:layout_width="313dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="83dp"
+        android:layout_marginEnd="84dp"
+        android:layout_marginBottom="64dp"
+        android:background="@drawable/button"
+        android:text="@string/submit"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/edtFeedback"
+        android:layout_width="338dp"
+        android:layout_height="128dp"
+        android:layout_gravity="center"
+        android:background="@drawable/custom_edt"
+        android:hint="@string/write_your_words_to_us"
+        android:inputType="textEmailAddress"
+        android:paddingStart="10dp"
+        android:textAlignment="center"
+        android:textColor="@color/my_primarycolor"
+        app:layout_constraintBottom_toTopOf="@+id/btnFeedback"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/StarNo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

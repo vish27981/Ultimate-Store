@@ -1,0 +1,71 @@
+<resources>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="my_order">My order</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="feedback">Feedback</string>
+    <string name="others">Others</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="email_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="registerr">REGISTER</string>
+    <string name="wish_list">Wish List</string>
+    <string name="aboutus">Welcome to Ultimate Store, your go-to destination for an unparalleled Android shopping experience! At Ultimate Store, we redefine convenience and style, bringing the latest trends and must-have products right to your fingertips. Discover a seamless shopping journey with our user-friendly interface, ensuring a hassle-free exploration of our extensive catalog. From fashion-forward things, Ultimate Store caters to diverse tastes and preferences. Our commitment to quality and authenticity guarantees a satisfying shopping spree every time. Enjoy exclusive deals, personalized recommendations, and a secure checkout process that prioritizes your privacy. With a responsive and intuitive design, our Android shopping application is crafted to enhance your online retail therapy. Elevate your shopping game with Ultimate Store – where innovation meets accessibility, creating a unique and enjoyable shopping experience tailored just for you.</string>
+    <string name="total_amount">Total Amount: -</string>
+    <string name="rs">0 Rs.</string>
+    <string name="proceed">Proceed to Pay</string>
+    <string name="cart_is_empty">Cart is Empty</string>
+    <string name="change_password1">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="conform_new_password">Conform New Password</string>
+    <string name="update">Update</string>
+    <string name="give_us_the_stars">Give us the stars</string>
+    <string name="stars">Stars</string>
+    <string name="submit">Submit</string>
+    <string name="write_your_words_to_us">Write your words to us!!!</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="EmailAssociate">Enter the email address associated with your Ultimate store account.</string>
+    <string name="email_address1">Email Address</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="loginbtn">Login</string>
+    <string name="password1">Password</string>
+    <string name="forget_password1">Forget Password?</string>
+    <string name="need_an_account_sign_up">Need an Account? SIGN UP</string>
+    <string name="already_have_an_account_sign_in">Already have an Account? SIGN IN</string>
+    <string name="your_profile">YOUR PROFILE</string>
+    <string name="full_name1">Full Name</string>
+    <string name="mobile_no1">Mobile No</string>
+    <string name="email_address2">Email Address</string>
+    <string name="update1">Update</string>
+    <string name="please_confirm_below_details">Please Confirm Below Details</string>
+    <string name="name">Name</string>
+    <string name="aman_dixit">Aman Dixit</string>
+    <string name="address">Address</string>
+    <string name="mobile_no2">Mobile No.</string>
+    <string name="no">1234567890</string>
+    <string name="email3">Email</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="online_payment">Online Payment</string>
+    <string name="total_amount1">Total Amount</string>
+    <string name="rs_0">Rs 0</string>
+    <string name="order">Order</string>
+
+    <string-array name="count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+
+</resources>
