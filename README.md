@@ -10,8 +10,8 @@ With seamless browsing and intuitive search features, finding your favorite bran
 
 Experience the ultimate in convenience and style with Ultimate Store on Android. Download now and embark on a shopping journey like never before – because at Ultimate Store, your fashion dreams come to life! ✨ #UltimateStore #FashionForward #AndroidShopping
 
-![Screenshot_20240321_233302](https://github.com/vish27981/Ultimate-Store/assets/118104336/2c6dce11-2f7d-4315-94db-72677b5a79db)
-![Screenshot_20240321_233838](https://github.com/vish27981/Ultimate-Store/assets/118104336/6dae2c9b-ca08-45c1-9764-2f00e3055a58)
+![Screenshot_20240321_233302](https://github.com/vish27981/Ultimate-Store/assets/118104336/2c6dce11-2f7d-4315-94db-72677b5a79db) ![Screenshot_20240321_233838](https://github.com/vish27981/Ultimate-Store/assets/118104336/6dae2c9b-ca08-45c1-9764-2f00e3055a58)
+
 ![Screenshot_20240321_233833](https://github.com/vish27981/Ultimate-Store/assets/118104336/bb7da6f0-b249-4ef8-a3fb-a993eb96e26f)
 ![Screenshot_20240321_233525](https://github.com/vish27981/Ultimate-Store/assets/118104336/e3bd2390-8d7e-45cf-a51e-bacfc0837a4f)
 ![Screenshot_20240321_233539](https://github.com/vish27981/Ultimate-Store/assets/118104336/b7196de4-880e-4f94-a481-310cb0f42fc5)
